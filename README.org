@@ -1,3 +1,16 @@
 #+TITLE: lockdown-stats
 
 Source code for a few work related visualizations at Vernacular.ai.
+
+#+begin_quote
+Most of these have errors if you try to read too much since they all are 1 hour
+hacks.
+#+end_quote
+
+*Calendar Hours*
+
+[[./plots/calendar-hours.png]]
+
+*Lunch timing*
+
+[[./plots/lunch.png]]
